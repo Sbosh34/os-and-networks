@@ -2,7 +2,7 @@ from socket import *
 
 
 host_name = "172.29.38.174"
-port_no = 12
+port_no = 12000
 
 cs = socket(AF_INET,SOCK_DGRAM) #UDP essentially man
 
