@@ -1,8 +1,8 @@
 from socket import *
 
-serverName = 'localhost'
+serverName = '196.47.192.199'
 
-serverPort = 12000
+serverPort = 33060
 
 clientSocket = socket(AF_INET, SOCK_STREAM)
 
