@@ -1,0 +1,59 @@
+# Question One
+459
+10.130.33.209
+61635
+
+# Question two
+459
+128.119.245.12
+80
+
+# Question three
+459
+3805462820
+
+# Question four
+461
+2233536705
+3805462821
+
+# Question five
+464
+3805462821
+
+# Question six
+464
+14.795
+14.797
+1.484			
+1.621			
+1.501			
+
+# Question seven
+666
+1500
+1500
+1500
+
+# Question eight
+30464
+
+# Question 10
+44
+192.168.86.61
+
+# Question 11
+1
+
+# Question 12
+17
+
+# Question 13
+20
+36
+
+# Question 14
+no
+
+
+
