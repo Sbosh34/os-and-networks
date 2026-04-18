@@ -26,7 +26,7 @@ public class FIFO {
             // 2. for the first time, all frames will be free, populate them and save their indexes in queue
 
             //Frames are not yet fully populated
-            if (frames.size() - idxFrame > 0){
+            if ((frames.size() - idxFrame > 0) && !frames.contains(page)){
 
                 pageFaults++;faulted = true;
                 queue.offer(idxFrame);
@@ -55,7 +55,7 @@ public class FIFO {
                     System.out.println(page+": "+frames.toString());
             }
             else{
-                System.out.println(page+":-");
+                System.out.println(page+": -");
             }
             faulted = false;
         }
