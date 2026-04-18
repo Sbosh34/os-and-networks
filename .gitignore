@@ -1,4 +1,5 @@
 *.pdf
+*.class
 *.docx
 *:Zone.Identifier*
 .ipynb_checkpoints/
