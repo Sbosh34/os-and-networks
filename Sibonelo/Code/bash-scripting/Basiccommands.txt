@@ -1,0 +1,34 @@
+This command allows you to see all of your env variables 
+'export'
+
+This command just tells you more about something
+'whatis'
+
+e.g - 'whatis python' 
+python3.12 (1)       - an interpreted, interactive, object-oriented prog..
+
+Similarly we also have the 'whereis' variant which shows you where a program or file may be
+e.g
+whereis vim
+vim: /usr/bin/vim /etc/vim /usr/share/vim /usr/share/man/man1/vim.1.gz
+
+and we also have
+which - which shows the path to an executable
+
+cat - Actually much more powerful than i thought...to demonstrate
+
+e.g
+cat filename
+cat file1 file2 # see both file1 and file2
+cat file1 file2 > newcombinedfile
+cat < file1 > file2 #copy file1 to file2
+
+the 'cut' command is immaculate, it allows you to extract certain text within a file using a delimiter specified by  -d
+
+e.g textFile <- "I just wanna finish this degree and make moolah"
+
+cut -d " " -f1,8,9 textFile
+I make moolah
+
+to be continued...but use this Repo to continue
+"https://github.com/Idnan/bash-guide"
