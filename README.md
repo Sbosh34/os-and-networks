@@ -23,25 +23,24 @@ we gather notes, labs, past-paper tricks, and mental models until the course bec
 
 ## The Three Lecturers: The Council of Context Switches
 
-### JOSIAAAAH (The Scheduler)  (ง'̀-'́)ง
+### JOSIAAAAH (The Network Baddie)  (ง'̀-'́)ง
 - If it can run, it *must* be scheduled.
 - If it waits, it must have a reason.
 - If it starves, we fix it.
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="450" alt="speed"/>
 
-### os-Michelle (The Memory Whisperer)  (•_•)
+### Aslam (The Memory Whisperer)  (•_•)
 - Pages. Frames. Tables. Translation Lookaside Buffer.
 - If you don’t translate addresses correctly, you are not invited to physical memory.
 
 <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="450" alt="training"/>
 
-### Aslam (The Concurrency Exorcist)  (ಠ_ಠ)
+### Michelle (The Concurrency Exorcist)  (ಠ_ಠ)
 - If it races, we lock.
 - If it deadlocks, we diagnose.
 - If it “works on my machine”, we still verify.
 
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="450" alt="victory"/>
 
 > If GIFs don’t load on your WiFi, imagine the same energy but with less bandwidth.
 > (Still valid.)
@@ -76,4 +75,3 @@ we gather notes, labs, past-paper tricks, and mental models until the course bec
 
 ---
 
-## Repo Structure (suggested)
