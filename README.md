@@ -75,3 +75,5 @@ we gather notes, labs, past-paper tricks, and mental models until the course bec
 
 ---
 
+
+*Solving Mutexes under immense pressure, only the exam is left now - e1 - pred48
